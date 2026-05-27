@@ -98,7 +98,7 @@ Default Flask URL:
 http://127.0.0.1:5000/
 ▶️ Installation Guide
 Step 1: Clone Repository
-git clone https://github.com/your-username/heart-disease-detection.git
+git clone https://github.com/Mohansaini509/Heart-Diseas-Detection
 Step 2: Navigate to Project Folder
 cd heart-disease-detection
 Step 3: Install Dependencies
