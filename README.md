@@ -23,6 +23,7 @@ NumPy
 Scikit-learn
 Pickle
 HTML/CSS
+
 📂 Project Structure
 Heart-Disease-Detection/
 │
